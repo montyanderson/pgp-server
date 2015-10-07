@@ -1,0 +1,22 @@
+{
+  "name": "pgp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/pgp-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montyanderson/pgp-server/issues"
+  },
+  "homepage": "https://github.com/montyanderson/pgp-server#readme",
+  "dependencies": {
+    "openpgp": "^1.3.0"
+  }
+}
